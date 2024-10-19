@@ -1,7 +1,7 @@
-# encode
+# Installation
 
-apt install git python -y
+apt install git python -y\n
 git clone
 https://github.com/mahibull/encode
 cd encode
-# python encode.py
+python encode.py
